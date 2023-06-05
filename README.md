@@ -6,7 +6,10 @@
 A simple notes widget for iOS_iPadOS. Note colour matches systems dark_light mode. You can run this widget using Scriptable.
 
 ## How it will look
-![](Scriptable%20Note%20Widget/IMG_1521.jpeg)![](Scriptable%20Note%20Widget/IMG_1523.jpeg)
+![IMG_1521](https://github.com/Ech0Tom/Scriptable-Note-Widget/assets/75701600/11c47efe-3880-42fd-9070-65077459060c)
+![IMG_1523](https://github.com/Ech0Tom/Scriptable-Note-Widget/assets/75701600/fa4ed2db-540c-42c5-8936-643527651a6a)
+
+
 
 ## Set Up
 1. Download Scriptable from the App Store
