@@ -3,7 +3,7 @@
      Updated: 05/06/2023
 
 ## Project Description
-A simple notes widget for iOS_iPadOS. Note colour matches systems dark_light mode. You can run this widget using Scriptable.
+A simple notes widget for iOS and iPadOS. Note colour matches systems dark or light mode. You can run this widget using Scriptable.
 
 ## How it will look
 ![IMG_1521](https://github.com/Ech0Tom/Scriptable-Note-Widget/assets/75701600/11c47efe-3880-42fd-9070-65077459060c)
